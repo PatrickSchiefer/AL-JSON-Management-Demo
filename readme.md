@@ -1,0 +1,1 @@
+This is an AL Demo Project for https://patrickschiefer.com/2022/11/07/the-object-oriented-way-of-json-handling-in-al-part-1/ 
